@@ -1,0 +1,7 @@
+2022-12-05 10:48:29 ERROR DataProviderCsv:610 - java.io.FileNotFoundException: .\src\main\resources\csv\user.csv (Не удается найти указанный файл)
+2022-12-05 10:48:31 ERROR DataProviderCsv:610 - java.io.FileNotFoundException: .\src\main\resources\csv\stoneware.csv (Не удается найти указанный файл)
+2022-12-05 10:48:32 ERROR DataProviderCsv:610 - java.io.FileNotFoundException: .\src\main\resources\csv\door.csv (Не удается найти указанный файл)
+2022-12-05 10:48:32 ERROR DataProviderCsv:610 - java.io.FileNotFoundException: .\src\main\resources\csv\plumb.csv (Не удается найти указанный файл)
+2022-12-05 10:48:34 ERROR DataProviderCsv:610 - java.io.FileNotFoundException: .\src\main\resources\csv\cart.csv (Не удается найти указанный файл)
+2022-12-05 10:48:34 ERROR DataProviderCsv:610 - java.io.FileNotFoundException: .\src\main\resources\csv\catalog.csv (Не удается найти указанный файл)
+2022-12-05 10:48:35 ERROR DataProviderCsv:610 - java.io.FileNotFoundException: .\src\main\resources\csv\order.csv (Не удается найти указанный файл)
